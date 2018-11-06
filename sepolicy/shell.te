@@ -1,0 +1,3 @@
+#============= shell ==============
+allow shell kernel:system syslog_read;
+

@@ -1,0 +1,3 @@
+#============= hal_drm_default ==============
+allow hal_drm_default media_data_file:dir search;
+

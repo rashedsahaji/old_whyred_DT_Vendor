@@ -197,7 +197,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     FM2 \
     libqcomfm_jni \
-    init.qti.fm.sh \
     qcom.fmradio
 
 # For android_filesystem_config.h
